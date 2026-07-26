@@ -1,9 +1,9 @@
-# Hi 👋, I'm Sai Krishna Rajeswar Thotakura (he/him)
+# Hi 👋, I'm Sai Krishna Rajeswar Thotakura
 
 <h3 align="center">🚀 Information Technology Student | Full-Stack Developer | AI & Machine Learning Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Information+Technology+Student;Full-Stack+Developer;Machine+Learning+Enthusiast;Building+Real-World+Projects;Always+Learning+Something+New+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Information+Technology+Student;Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Real-World+Projects;Always+Learning+Something+New+🚀" />
 </p>
 
 <p align="center">
@@ -16,14 +16,15 @@
 
 🎓 Final Year **B.Tech Student** specializing in **Information Technology**
 
-💡 Passionate about building **AI-powered applications**, **Full-Stack Web Applications**, and solving real-world problems through technology.
+💡 Passionate about building **AI-powered applications**, **Full-Stack Web Applications**, and solving real-world problems using technology.
 
 🌱 **Currently Learning**
 
-- Advanced Artificial Intelligence
+- Artificial Intelligence
 - Large Language Models (LLMs)
 - AI Agents
 - Retrieval-Augmented Generation (RAG)
+- Cloud Technologies
 
 💬 **Ask Me About**
 
@@ -37,17 +38,20 @@
 
 ---
 
-# 🛠️ Tech Stack
-
-## 👨‍💻 Languages
+# 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,mysql" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 ---
 
-## 🌐 Full Stack Development
+# 🌐 Full Stack Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,flask,fastapi" />
@@ -55,7 +59,7 @@
 
 ---
 
-## 🤖 AI / Machine Learning
+# 🤖 AI / Machine Learning
 
 - Machine Learning
 - Data Analysis
@@ -70,42 +74,24 @@
 
 ---
 
-## ☁️ Cloud & Tools
+# ☁️ Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,aws,postman,vscode,npm,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,aws,postman,npm,figma,mysql,mongodb" />
 </p>
 
 ---
 
-## 📚 Libraries & Frameworks
+# 📚 Libraries
 
 - NumPy
 - Pandas
 - Scikit-Learn
 - SciPy
-- Matplotlib
 - TensorFlow
 - PyTorch
+- Matplotlib
 - Keras
-- Power BI
-
----
-
-# 💼 Experience
-
-### 👨‍💻 Trainee
-
-- Technical Hub Pvt. Ltd.
-
-### 💻 Full-Stack Development
-
-- Developed web applications using the MERN Stack.
-- Worked on backend APIs and frontend interfaces.
-
-### 🤖 AI & Machine Learning
-
-- Built AI-powered applications using Python and OpenAI APIs.
 
 ---
 
@@ -115,63 +101,56 @@
 
 Real-time weather forecasting application using APIs.
 
----
-
 ### 👨‍💼 Smart Admin User Management System
 
-A complete authentication and role-based dashboard system.
-
----
+Role-based authentication and dashboard management system.
 
 ### 🔐 Password Generator
 
-Secure Password Generator built using Flask.
-
----
+A secure password generator developed using Flask.
 
 ### 🤖 AI Chatbot
 
-Conversational AI chatbot powered by LLMs.
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sairajeswar&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sairajeswar&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 📊 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sairajeswar&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sairajeswar&theme=tokyo-night"/>
-</p>
+Conversational chatbot powered by LLMs.
 
 ---
 
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sairajeswar&theme=tokyonight&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sairajeswar&theme=tokyonight&row=1&column=6"/>
 </p>
 
 ---
 
-# 💻 Tech Icons
+# 🛠️ Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,java,python,react,nodejs,express,mongodb,mysql,git,github,aws,flask,fastapi,tensorflow,pytorch,figma,vscode" />
+<img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,react,nodejs,express,mongodb,mysql,git,github,aws,flask,fastapi,tensorflow,pytorch,vscode,figma" />
+</p>
+
+---
+
+# 🌐 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/u/Sairajeswar7/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/sairajesddbk" target="_blank">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/sairajeswar777" target="_blank">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/users/sai_rajeswar7" target="_blank">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
 </p>
 
 ---
@@ -184,7 +163,7 @@ Conversational AI chatbot powered by LLMs.
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://portfolio-xxcz.vercel.app" target="_blank">
+<a href="https://portfolio-xxcz.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -198,14 +177,20 @@ Conversational AI chatbot powered by LLMs.
 
 # ⚡ Quote
 
-> **"Curious, Passionate, and Always Learning." 🚀**
+> **"Curious minds build extraordinary things. Keep Learning. Keep Building. 🚀"**
 
 ---
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sairajeswar&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sairajeswar&repo=YOUR_BEST_REPOSITORY&theme=tokyonight"/>
 </p>
 
+---
+
 <p align="center">
-⭐ Thanks for visiting my profile! If you like my work, consider giving a ⭐ to my repositories.
+
+### ⭐ Thanks for visiting my profile!
+
+*"Code. Learn. Build. Repeat."* 🚀
+
 </p>
