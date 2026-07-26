@@ -166,14 +166,6 @@ Modern responsive developer portfolio showcasing projects and skills.
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sairajeswar&theme=tokyonight&row=1&column=6"/>
-</p>
-
----
-
 # 💻 Skills
 
 <p>
