@@ -7,9 +7,6 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-xxcz.vercel.app">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
   <a href="https://www.linkedin.com/in/sai-rajeswar-775b72290/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
