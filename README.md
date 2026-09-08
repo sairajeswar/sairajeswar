@@ -199,9 +199,6 @@ Modern responsive developer portfolio showcasing projects and skills.
 
 <p align="center">
 
-<a href="https://portfolio-xxcz.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
 
 <a href="https://www.linkedin.com/in/sai-rajeswar-775b72290/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
